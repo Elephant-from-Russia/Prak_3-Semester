@@ -1,0 +1,47 @@
+№6.9
+a) +
+b) -
+c) -
+d) +
+e) +
+f) +
+g) -
+h) +
+
+6.11
+b, d
+
+6.12
+a, d
+
+6.14
+a) 
+struct point{
+  int x;
+  int y;
+};
+
+b) 
+struct сolor_point{
+  int x;
+  int y;
+  int c;
+};
+
+c)
+struct complex{
+  int im;
+  int r;
+};
+
+d)  
+struct fraction{
+  int p;
+  unsighned short q;
+};
+
+6.19
+++a[i].s[3] Изменение константной области памяти
+
+6.20 
+Да, верно
